@@ -1,15 +1,15 @@
 {
 	"Citizen TV": {
 		"logo": "https://i.imgur.com/n08ppI3.png",
-		"link": "https://linkastream.co/headless?url=https://youtube.com/c/kenyacitizentv/live",
+		"link": "https://silent-pine-fb33.winges.workers.dev/?url=https://youtube.com/c/kenyacitizentv/live",
 		"id": "UChBQgieUidXV1CmDxSdRm3g"
 	},
-	"KBC": {
+	"Teesside TV ": {
 		"logo": "https://i.imgur.com/rcz9MHU.png",
 		"link": "",
-		"id": "x74211t"
+		"id": "x702g7a"
 	},
-	"K24": {
+	"test": {
 		"logo": "https://i.imgur.com/qsR404z.png",
 		"link": "",
 		"id": "x6lvncs"
